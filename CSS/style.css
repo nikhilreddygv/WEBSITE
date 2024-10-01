@@ -1,5 +1,32 @@
 body{
-
-    /* background: #000; */
-    
+    background: #e3c5c5;
+    margin:0;   
 }
+
+.container {
+    width: 780px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+.header {
+    border: 2px solid black;
+    /* padding-left: 10px;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-right:10px ; */
+    padding: 15px; 
+}
+
+.menu {
+    padding: 6px;
+    background: #3b7687;
+}
+
+.menu a{
+    color: #dfd8cc;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
